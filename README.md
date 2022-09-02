@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Alexa
+# Responsive Portfolio Website Alexa Template
 <!-- will update video link -->
 ## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
 ### Responsive Portfolio Website Alexa
